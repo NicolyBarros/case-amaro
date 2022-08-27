@@ -16,10 +16,15 @@
 - Criar o arquivo .env e configurar com as informações de seu banco de dados.
 
 PORT: 3003
+
 DB_HOST = host
+
 DB_USER = usuario
+
 DB_PASSWORD = senha
+
 DB_NAME = nome-do-banco-de-dados
+
 
 JWT_KEY = senha
 JWT_EXPIRES_IN = duração do token
